@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="85f7da9b-51fd-4a07-b7e7-bacaf9b724c0" name="Changes" comment="" />
+    <list default="true" id="85f7da9b-51fd-4a07-b7e7-bacaf9b724c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/CarvanaBasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/scripts/CarvanaBaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/scripts/CarvanaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/Driver.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LL9cHmlR5InKRPssTMnmPI1EIX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,12 +41,107 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mr Maleeko/IdeaProjects/testng_second_project_5&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="TestNG.C:/Users/Mr Maleeko/IdeaProjects/testngng_third_project/Regression.xml">
+    <configuration name="C:/Users/Mr Maleeko/IdeaProjects/testngng_third_project/Regression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testngng_third_project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Regression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarvanaTest.validateHeaderItems" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testngng_third_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scripts" />
+      <option name="MAIN_CLASS_NAME" value="scripts.CarvanaTest" />
+      <option name="METHOD_NAME" value="validateHeaderItems" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarvanaTest.validateSearchOptions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testngng_third_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scripts" />
+      <option name="MAIN_CLASS_NAME" value="scripts.CarvanaTest" />
+      <option name="METHOD_NAME" value="validateSearchOptions" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarvanaTest.validateSearchResultTiles" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testngng_third_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scripts" />
+      <option name="MAIN_CLASS_NAME" value="scripts.CarvanaTest" />
+      <option name="METHOD_NAME" value="validateSearchResultTiles" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarvanaTest.validateSignInErrorMessage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="testngng_third_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="scripts" />
+      <option name="MAIN_CLASS_NAME" value="scripts.CarvanaTest" />
+      <option name="METHOD_NAME" value="validateSignInErrorMessage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Mr Maleeko/IdeaProjects/testngng_third_project/Regression.xml" />
+        <item itemvalue="TestNG.CarvanaTest.validateSearchResultTiles" />
+        <item itemvalue="TestNG.CarvanaTest.validateSearchOptions" />
+        <item itemvalue="TestNG.CarvanaTest.validateSignInErrorMessage" />
+        <item itemvalue="TestNG.CarvanaTest.validateHeaderItems" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +152,16 @@
       <updated>1675639576644</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

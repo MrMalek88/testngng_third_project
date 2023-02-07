@@ -7,10 +7,10 @@ import pages.CarvanaBasePage;
 import utils.ConfigReader;
 import utils.Driver;
 
-public class CarvanaBase {
+public class CarvanaBaseTest {
 
         CarvanaBasePage carvanaBasePage;
-        CarvanaBase carvanaBase;
+        CarvanaBaseTest carvanaBaseTest;
         CarvanaTest carvanaTest;
 
         WebDriver driver;
